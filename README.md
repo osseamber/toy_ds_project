@@ -1,2 +1,3 @@
 # toy_ds_project
-project_vreation_date: Oct 7th, 2021
+project creation date: Oct 7th, 2021
+author: amber du
